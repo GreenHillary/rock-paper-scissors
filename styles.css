@@ -1,7 +1,18 @@
+.header {
+    color: blue;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .game {
     align-items: center;
     margin: 20px;
     padding: 20px;
     justify-content: center;
     display: flex;
+    background-color: gray;
 }
